@@ -1,6 +1,7 @@
+```
 Done by: JAYASHREE J
 REGISTER NUMBER: 212225040145
-
+```
 # Conditional Statements in Python: Even or Odd Checker
 
 ## 🎯 Aim
